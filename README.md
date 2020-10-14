@@ -25,6 +25,8 @@ We are performing You Only Look Once Algorithm and Hough Transform Algorithm for
 3. Go to this link below and download '.cfg' and '.weights' file for YOLOv3-320
    (https://pjreddie.com/darknet/yolo/)
    
+Make sure everthing is in the same folder.
+   
 ## Arrangement For Running The Code
 1. If you have a GTA V Game then :
 
@@ -43,4 +45,16 @@ We are performing You Only Look Once Algorithm and Hough Transform Algorithm for
 ## Now You Are Ready To Run !!!
 Run the code and adjust the output screen in such a way that it does not overlap the game or the video.
 
+## For More Information
+For some detailed explaination on each of the algorithm 
+
+    a.) Lane Detection - Hough Transform
     
+    b.) Object Detection - You Look Only Once
+   
+Please visit our Blog Website 
+
+https://btechblogs.herokuapp.com/blog/lanedetection
+
+https://btechblogs.herokuapp.com/blog/objectdetection
+
