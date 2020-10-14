@@ -40,5 +40,7 @@ We are performing You Only Look Once Algorithm and Hough Transform Algorithm for
     
     b.) And now drag it to the top left corner of your screen.
     
-##
+## Now You Are Ready To Run !!!
+Run the code and adjust the output screen in such a way that it does not overlap the game or the video.
+
     
