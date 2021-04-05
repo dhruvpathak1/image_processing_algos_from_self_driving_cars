@@ -7,6 +7,11 @@ In this project we scan the whole frame once and detect lanes and other surround
 
 We are performing You Only Look Once Algorithm and Hough Transform Algorithm for Object and Lane Detection Respectively. We have performed these algorithms in a game called GTA V, which is the closest real-life experience.
 
+## A detailed explanation of Self Driving Cars and this project can be found at :
+#### - https://btechblogs.herokuapp.com/blog/lanedetection\
+
+#### - https://btechblogs.herokuapp.com/blog/objectdetection
+
 ## Installation Check List
 1. Download the following libraries in your Python Interpreter:
 
@@ -51,10 +56,3 @@ For some detailed explaination on each of the algorithm
     a.) Lane Detection - Hough Transform
     
     b.) Object Detection - You Look Only Once
-   
-Please visit our Blog Website 
-
-https://btechblogs.herokuapp.com/blog/lanedetection
-
-https://btechblogs.herokuapp.com/blog/objectdetection
-
