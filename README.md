@@ -49,10 +49,3 @@ Make sure everthing is in the same folder.
     
 ## Now You Are Ready To Run !!!
 Run the code and adjust the output screen in such a way that it does not overlap the game or the video.
-
-## For More Information
-For some detailed explaination on each of the algorithm 
-
-    a.) Lane Detection - Hough Transform
-    
-    b.) Object Detection - You Look Only Once
